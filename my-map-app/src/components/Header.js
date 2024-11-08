@@ -27,6 +27,7 @@ const styles = {
   },
   title: {
     fontSize: "1.5rem", // Adjust title size
+    fontWeight: "bold",
   },
 };
 

@@ -17,7 +17,7 @@ function Informasi({ menuSelect, informasiPersil }) {
     <div
       className=" ml-[80px] px-2 w-[230px] z-10 h-[calc(100vh_+_81px)] fixed bg-white overflow-y-scroll sidebar py-1 duration-500"
       style={
-        menuSelect == "Informasi"
+        menuSelect === "Informasi"
           ? { marginLeft: "80px" }
           : { marginLeft: "-400px" }
       }

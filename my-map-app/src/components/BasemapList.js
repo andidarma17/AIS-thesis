@@ -1,10 +1,10 @@
-const OpenStreetMap = "/images/Basemap/OpenStreetMap.jpg";
-const EsriWorldImagery = "/images/Basemap/EsriWorldImagenery.jpg";
-const EsriToPo = "/images/Basemap/EsriToPo.jpg";
-const StadiaDark = "/images/Basemap/StadiaDark.jpg";
-const GoogleMaps = "/images/Basemap/GoogleMaps.jpg";
-const GoogleStreet = "/images/Basemap/GoogleStreet.jpg";
-const CartoDb = "/images/Basemap/CartoDb.jpg";
+import OpenStreetMap from "../image/Basemap/OpenStreetMap.jpg";
+import EsriWorldImagery from "../image/Basemap/EsriWorldImagenery.jpg";
+import EsriToPo from "../image/Basemap/EsriToPo.jpg";
+import StadiaDark from "../image/Basemap/StadiaDark.jpg";
+import GoogleMaps from "../image/Basemap/GoogleMaps.jpg";
+import GoogleStreet from "../image/Basemap/GoogleStreet.jpg";
+import CartoDb from "../image/Basemap/CartoDb.jpg";
 
 const daftarBasemap = [
   {
